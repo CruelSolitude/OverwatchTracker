@@ -1,6 +1,6 @@
 <template>
   <div class="title">
-    <h1>Overwatch Ranking</h1>
+    <h1>Overwatch Friends &#128522;</h1>
   </div>
   <div class="container">
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
