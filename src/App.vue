@@ -1,5 +1,5 @@
 <template>
-  <div class="Overwatch">
+  <div class="title">
     <h1>Overwatch Friends &#128522;</h1>
   </div>
   <div class="container">
